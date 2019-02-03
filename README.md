@@ -1,6 +1,14 @@
-This is the project repo for the final project of the Udacity Self-Driving Car Nanodegree: Programming a Real Self-Driving Car. For more information about the project, see the project introduction [here](https://classroom.udacity.com/nanodegrees/nd013/parts/6047fe34-d93c-4f50-8336-b70ef10cb4b2/modules/e1a23b06-329a-4684-a717-ad476f0d8dff/lessons/462c933d-9f24-42d3-8bdc-a08a5fc866e4/concepts/5ab4b122-83e6-436d-850f-9f4d26627fd9).
 
-Please use **one** of the two installation options, either native **or** docker installation.
+
+This is an individual project. Udacity Support team advised the project will not be run in Carla for evaluation for individual submission.
+
+It works fine without enabling Camera in the simulator. When the Camera is enabled the vehicle does not seem to follow the waypoints, though the traffic light detection seems to work properly. Even turning-off the traffic light detection module `tl_detector.py` does not seem to help, just having the Camera output from the simulator enabled make the car wobble. Would like to have the project reviewed for comments while I still try to set an AWS environment to debug this issue.
+
+## Video
+
+[Simulator](https://youtu.be/dPcHjq4EOkQ)!
+
+
 
 ### Native Installation
 
