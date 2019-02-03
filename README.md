@@ -6,7 +6,7 @@ It works fine without enabling Camera in the simulator. When the Camera is enabl
 
 ## Video
 
-[Simulator](https://youtu.be/dPcHjq4EOkQ)!
+[![Simulator](https://youtu.be/dPcHjq4EOkQ)](https://youtu.be/dPcHjq4EOkQ)
 
 
 
